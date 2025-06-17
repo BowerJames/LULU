@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2025-04-29T09:00",
+    "duration": 3600,
+    "isWithinHours": true,
+    "numSpots": 15,
+    "numBookedSpots": 14,
+    "numAvailableSpots": 1,
+    "numSpotsByResourceId": {},
+    "numBookedSpotsByResourceId": {},
+    "numAvailableSpotsByResourceId": {},
+    "numSpotsByServiceId": {},
+    "numBookedSpotsByServiceId": {},
+    "numAvailableSpotsByServiceId": {}
+  }
+]
